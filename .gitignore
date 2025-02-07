@@ -3,3 +3,4 @@ venv
 *.pyc
 *pycache
 *.ipynb
+*.xlsx
